@@ -5,6 +5,7 @@
   }
 
   .card {
+    max-width: 21rem;
     margin: 1.5rem;
     padding: 1rem;
     border: 0.5rem solid white;
@@ -13,7 +14,7 @@
   }
 
   .card img {
-    max-width: 20rem;
+    max-width: 100%;
     height: auto;
     border-radius: 5px;
   }
